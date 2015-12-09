@@ -1,0 +1,20 @@
+{
+  "name": "rpicontrol-server",
+  "version": "1.0.0",
+  "main": "server/app.js",
+  "author": "Max Jöhnk",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.13.3",
+    "tr-064": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RPiControl/Server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RPiControl/Server/issues"
+  },
+  "homepage": "https://github.com/RPiControl/Server#readme",
+  "description": ""
+}
